@@ -12,9 +12,9 @@ Além disso, as Redes Neurais Convolucionais (CNNs) desempenham um papel essenci
 
 
 # Conteúdo
-Classificação do Tempo: Engloba todo o processo de treinamento da CNN para identificar condições climáticas, como sol, chuva ou tempo nublado.
+Classificação do Tempo.ipynb: Engloba todo o processo de treinamento da CNN para identificar condições climáticas, como sol, chuva ou tempo nublado.
 
-ConvLSTM com MSE, MAE e Validação Cruzada: O modelo ConvLSTM é utilizado para prever o próximo frame em uma sequência de imagens terrestres, servindo como entrada para a CNN na classificação do clima.
+ConvLSTM com MSE, MAE e Validação Cruzada.ipynb: O modelo ConvLSTM é utilizado para prever o próximo frame em uma sequência de imagens terrestres, servindo como entrada para a CNN na classificação do clima.
 
 Link para os datasets usados na CNN e no ConvLSTM
 [Acesse os datasets no Google Drive](https://drive.google.com/drive/folders/1vDhhpAFVIe8KULV02HFx_Ve-P59ukt15?usp=sharing)
