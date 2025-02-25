@@ -12,9 +12,9 @@ Além disso, as Redes Neurais Convolucionais (CNNs) desempenham um papel essenci
 
 
 # Conteúdo
-14NodesPV.pfd: Contains the simulation file with parameters and the environment ready to simulate the IEEE 14-node system with the integration of distributed generation based on solar systems.
+Classificação do Tempo: Engloba todo o processo de treinamento da CNN para identificar condições climáticas, como sol, chuva ou tempo nublado.
 
-Import_without_DER.m: A MATLAB script to organize voltage and current data exported from the PowerFactory simulation without any distributed energy resource integration.
+ConvLSTM com MSE, MAE e Validação Cruzada: O modelo ConvLSTM é utilizado para prever o próximo frame em uma sequência de imagens terrestres, servindo como entrada para a CNN na classificação do clima.
 
 Link para os datasets usados na CNN e no ConvLSTM
 [Acesse os datasets no Google Drive](https://drive.google.com/drive/folders/1vDhhpAFVIe8KULV02HFx_Ve-P59ukt15?usp=sharing)
